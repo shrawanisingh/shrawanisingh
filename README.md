@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shrawani Singh. A Data Science enthusiast!
--  I’m currently working as Lead Software Engineer at Persistent System in India.
+-  I’m currently working as Senior Data Scientist at London Stock Exchange.
 - 🌱 I have completed my Post Graduation with AIML, July 2022.
 - 📫 You can reach out to me over my email id: shrawani.aiml@gmail.com
 
